@@ -1,2 +1,1 @@
-# terre coding accelerator exercice
-
+# Repo destiné aux travaux réalisé sur Coding Accelerator
