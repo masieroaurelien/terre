@@ -1,4 +1,4 @@
-# Trouver la suisse
+# Trié ou pas?
 
 list = ARGV[0..]
 listsorted = list.sort
