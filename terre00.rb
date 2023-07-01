@@ -4,6 +4,7 @@ count = 0
 
 =begin
   puts alphabet[0..25]
+  Non utilisé car pas de boucle
 =end
 
 while count < 26
