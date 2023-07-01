@@ -1,1 +1,2 @@
-# terre
+# terre coding accelerator exercice
+
